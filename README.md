@@ -62,11 +62,5 @@ Creating an app is a great way to play around with new technologies. I recently 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/j-malino/github-readme-activity-graph"><img alt="Jess' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-malino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
